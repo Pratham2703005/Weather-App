@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Merriweather Sans', sans-serif;
+    overflow-x: hidden;
 }
 
 :root {
@@ -17,7 +18,7 @@
     min-height:100vh;
     color: var(--colorLight2);
     background-image: linear-gradient(160deg, #112d4e 0%, #3f72af 100%);
-    overflow-x: hidden;
+    
 }
 
 h1 {
